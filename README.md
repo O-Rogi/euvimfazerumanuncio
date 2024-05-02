@@ -32,7 +32,9 @@
         
   <li>ele mijou na porra da minha esposa</li>
 
-   <img> <span class="bHC-Q" data-unbounded="false" jscontroller="LBaJxb" jsname="m9ZlFb" soy-skip ssk="6:RWVI5c">…</span> <img/>
+
+<img src="data:image/jpeg;base64,/9j…AAAAAAAAAAAAAAAAAAAAAAAD//Z.jpg" 
+
 
 
         
